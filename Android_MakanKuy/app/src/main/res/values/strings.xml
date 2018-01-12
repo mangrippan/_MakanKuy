@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MakanKuy</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="masuk">Masuk</string>
+    <string name="blm">Belum Punya Akun?</string>
+    <string name="daftar">Daftar Sekarang!</string>
+    <string name="title_activity_login">Login</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="alamat">Jalan Pajajaran No 5, Bogor Tengah</string>
+    <string name="pesan">Pesan Tempat</string>
+    <string name="rating">Beri Rating</string>
+    <string name="list_kat">List Kategori</string>
+
+
+</resources>
